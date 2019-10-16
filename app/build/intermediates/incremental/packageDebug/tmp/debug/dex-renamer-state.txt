@@ -1,0 +1,4 @@
+#Wed Oct 02 07:17:30 PDT 2019
+base.0=C\:\\Users\\Omni\\Downloads\\Compressed\\android-fundamentals-apps-v2-master\\android-fundamentals-apps-v2-master\\09.2 App settings\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
